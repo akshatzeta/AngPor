@@ -1,8 +1,8 @@
 import { Component, OnInit } from '@angular/core';
 import { Title } from '@angular/platform-browser';
-import { Project } from '../_models/project';
-import { ProjectsService } from '../_services/projects.service';
-import { Tag } from '../_models/Tag';
+import { Project } from '../models/project';
+import { ProjectsService } from '../services/projects.service';
+import { Tag } from '../models/Tag';
 
 @Component({
   selector: 'app-portfolio',

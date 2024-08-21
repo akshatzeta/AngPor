@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 import { BsComponentRef } from 'ngx-bootstrap/component-loader';
 import { BsModalRef } from 'ngx-bootstrap/modal';
-import { Project } from '../_models/project';
+import { Project } from '../models/project';
 
 @Component({
   selector: 'app-project-modal',
