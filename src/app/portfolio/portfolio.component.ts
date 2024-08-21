@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { Title } from '@angular/platform-browser';
-import { Project } from '../models/project';
+import { Project } from '../models/Project';
 import { ProjectsService } from '../services/projects.service';
 import { Tag } from '../models/Tag';
 

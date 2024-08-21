@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { Title } from '@angular/platform-browser';
 import { ProjectsService } from '../services/projects.service';
-import { Project } from '../models/project';
+import { Project } from '../models/Project';
 
 @Component({
   selector: 'app-home',
